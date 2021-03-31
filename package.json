@@ -2,7 +2,7 @@
   "name": "videos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rajesh1202.github.io/youtubesearch",
+  "homepage": "http://rajesh1202.github.io/videos",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
